@@ -35,14 +35,25 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-The auncient ecclesiasticall practise of confirmation Confirmed by arguments drawne from Scripture, 
+
+1. TO THE PRINCE
+HIS HIGHNESSE, MY
+GRATIOVS LORD
+AND MASTER.
+
 #####Body#####
 
-1. CHAP. I.
+1. THE
+AVNCIENT
+ECCLESIASTICALL
+PRACTISE OF
+Confirmation.
 
-1. CHAP. II.
+    _ CHAP. I.
 
-1. CHAP. III.
+    _ CHAP. II.
+
+    _ CHAP. III.
 
 **Types of content**
 
